@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  observo-client:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-06-17T12:37:48.885581+06:00"
+    description: A Helm chart for Observo Client
+    digest: 220b88e86026f7e6ea9791b500ad280a0770ff406954080a05a50a4d3515a290
+    name: observo-client
+    type: application
+    urls:
+    - https://nafiulkhan.github.io/observo-helm-test/observo-client-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-06-17T12:37:48.885117+06:00"
